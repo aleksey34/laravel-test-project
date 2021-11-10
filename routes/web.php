@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-// auth login logout register and etc
+// auth login logout register and etc -- web -(do not api)
 Route::name('user.')->group(function(){
 
     // route - user profile

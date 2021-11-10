@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-// auth
+// auth login logout register and etc
 Route::name('user.')->group(function(){
 
     // route - user profile

@@ -76,6 +76,7 @@
         // alert('float' );
     }else{
         // alert('number')
+        // for test git
     }
 // alert(test%1);
 </script>
